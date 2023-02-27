@@ -1,0 +1,10 @@
+0 my
+1 name
+2 R
+3 A
+4 W
+5 B
+6 I
+7 love you
+8 yes
+9 no
